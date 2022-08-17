@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  align-items: center;
+}
+.row img { 
+  margin-right: 200px;
+}
+.row p {
+  margin-right: 200px;
+}
